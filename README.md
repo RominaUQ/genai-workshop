@@ -22,5 +22,6 @@ Contains 4 sections:
 Walks you through some fundamental apis of langchain and how to usetilse them with SageMaker Models. **Note**, this workshop interacts with Falcon 40B Instruct model which is deployed to a private account accessible via restful Api URL- the user will need a authentication pass code (not availble to public). 
 
 **Lab3:** 
+
 Uses Lab 1 and Lab2 as a foundation to build and end to end RAG (Retreival Augmented Generation) application using Langchain and an LLM. **Note**, this workshop interacts with Falcon 40B Instruct model which is deployed to a private account accessible via restful Api URL- the user will need a authentication pass code (not availble to public).
 
